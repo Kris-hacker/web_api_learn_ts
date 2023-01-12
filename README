@@ -1,0 +1,15 @@
+<h3>Typescript tsconfig</h3>
+```html
+tsc --init
+```
+<hr/>
+<h3>Typescript compile program</h3>
+<p>It will compile the typescript file ,and generate a related JS file</p>
+```html
+tsc <TS_file_name>
+```
+<hr/>
+<h3>Typescript run program</h3>
+```html
+node <TS_file_name>
+```
